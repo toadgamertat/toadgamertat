@@ -16,7 +16,7 @@ Student. Learning to code. Building whenever I feel like it.
   <img src="https://64.media.tumblr.com/bb11b86191333d73e67f6a1a5ed23249/tumblr_p8gvt0iSHm1ro6plmo10_500.gifv" width="1050" alt="robotics notes banner">
 </p>
 
-<p align="left">
+<p align="center">
   <span>
     <img 
       src="https://streak-stats.demolab.com?user=toadgamertat&theme=tokyonight" 
