@@ -16,25 +16,24 @@ Student. Learning to code. Building whenever I feel like it.
   <img src="https://64.media.tumblr.com/bb11b86191333d73e67f6a1a5ed23249/tumblr_p8gvt0iSHm1ro6plmo10_500.gifv" width="1050" alt="robotics notes banner">
 </p>
 
-<p align="left">
-  <span>
-    <img 
-      src="https://streak-stats.demolab.com?user=toadgamertat&theme=tokyonight" 
-      alt="GitHub Streak"
-      height="200"
-      style="display:inline-block; margin-right: 20px;"
-    />
-  </span>
-
-<p align="right">
-  <span>
-    <img 
-      src="https://static.wikia.nocookie.net/robotics-notes/images/0/08/Frau_room.jpg/revision/latest?cb=20130329183400" 
-      alt="Robotics Notes Banner"
-      height="200"
-      style="display:inline-block;"
-    />
-  </span>
+<table>
+  <tr>
+    <td align="left">
+      <img 
+        src="https://streak-stats.demolab.com?user=toadgamertat&theme=tokyonight" 
+        alt="GitHub Streak"
+        height="200"
+      />
+    </td>
+    <td align="right">
+      <img 
+        src="https://static.wikia.nocookie.net/robotics-notes/images/0/08/Frau_room.jpg/revision/latest?cb=20130329183400" 
+        alt="Robotics Notes Banner"
+        height="200"
+      />
+    </td>
+  </tr>
+</table>
 </p>
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toadgamertat&theme=tokyonight)
